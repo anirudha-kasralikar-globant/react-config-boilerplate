@@ -97,8 +97,9 @@ typings/
 
 .idea/
 
-dist/
+/dist/
+/semantic/dist/*
 
-build/
+/build/
 
 .DS_Store

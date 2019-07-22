@@ -15,7 +15,8 @@
     "eslint-fix": "./node_modules/.bin/eslint --fix \"src/**/*.js\"",
     "flow": "./node_modules/.bin/flow",
     "flow-check": "./node_modules/.bin/flow check",
-    "test": "jest"
+    "test": "jest",
+    "fomantic-build": "cd semantic && npx gulp build"
   },
   "keywords": [],
   "author": "",
