@@ -62,6 +62,9 @@ module.exports = {
       '.js',
       '.jsx',
     ],
+    alias: {
+      '@': path.resolve(__dirname, 'src/'),
+    }
   },
   plugins: [
     new webpack.ProgressPlugin(),

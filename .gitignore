@@ -95,7 +95,7 @@ typings/
 
 ## PHPSTORM
 
-.idea/
+#.idea/
 
 /dist/
 /semantic/dist/*
